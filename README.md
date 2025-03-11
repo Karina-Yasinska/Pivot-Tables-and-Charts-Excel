@@ -18,10 +18,11 @@ Data Analysis: Based on the pivot tables, analyses were conducted to determine k
 Visualization of Results: Charts and graphs were created to clearly interpret the analysis results.
 
 Key Findings:
-Regions: The most profitable regions are the East and North, where the highest sales volumes are observed.
-Product Categories: The most popular categories are beverages, oils, and cheeses, which contribute significantly to profit.
+Cities: The most profitable cities are Berlin, Hamburg, and Munich where the highest sales volumes are observed.
+Product Categories: The most popular categories are are drinks, oil, and cheese, which contribute significantly to profit.
 Products: The top 5 best-selling products are coffee, Gouda cheese, butter, oil, and rice.
 Customers: The key customers generating the most profit are "Cooking Corner," "Mymeal," and "FoodBite."
+Quartals: The highest profit was in Qtr1 2022 and the lowest in Qtr4 2021.
 
 Use of Results:
 The analysis results can be used to make strategic decisions regarding product range expansion, logistics optimization, and marketing campaigns targeting key regions and customers.
